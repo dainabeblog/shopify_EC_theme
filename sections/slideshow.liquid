@@ -199,6 +199,17 @@
   {% endif %}
 </div>
 
+<style>
+  .slideshow--fullscreen{
+    height: calc(100vh - 55px);
+  }
+  @media only screen and (max-width: 1024px){
+    .slideshow--fullscreen{
+      height: 50vw;
+    }
+  }
+</style>
+
 {% schema %}
 {
   "name": {
@@ -381,6 +392,32 @@
             "zh-TW": "大型"
           },
           "value": "large"
+        },
+        {
+          "label": {
+            "cs": "Velká",
+            "da": "Stor",
+            "de": "Groß",
+            "en": "Large",
+            "es": "Grande",
+            "fi": "Suuri",
+            "fr": "Grande",
+            "it": "Grande",
+            "ja": "TOP専用",
+            "ko": "라지",
+            "nb": "Stor",
+            "nl": "Groot",
+            "pl": "Duży",
+            "pt-BR": "Grande",
+            "pt-PT": "Grande",
+            "sv": "Stor",
+            "th": "ใหญ่",
+            "tr": "Büyük",
+            "vi": "Lớn",
+            "zh-CN": "大",
+            "zh-TW": "大型"
+          },
+          "value": "fullscreen"
         }
       ]
     },
