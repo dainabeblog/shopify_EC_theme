@@ -1,1 +1,715 @@
-{"current":{"type_header_font":"serif","type_base_font":"serif","favicon":"shopify:\/\/shop_images\/favicon2.png","sections":{"header":{"type":"header","settings":{"align_logo":"left","logo_max_width":70,"main_linklist":"","message":false,"home_page_only":true,"message_text":"Announce something here","color_bg":"#3a3a3a","color_text":"#ffffff"}},"feature-row":{"type":"feature-row","settings":{"image":"shopify:\/\/shop_images\/AdobeStock_166420207.jpg","layout":"left","title":"鶏に優しい平飼い卵","text":"<p>鶏が自由に過ごせる環境下で育てており、<br\/>健康的で美味しい卵を生産しています。<\/p>","button_label":""}},"feature-columns":{"type":"feature-columns","blocks":{"feature-columns-2":{"type":"text_block","settings":{"enable_image":true,"image":"shopify:\/\/shop_images\/504af1d7-a508-4d78-9709-393037d6938a.jpg","title":"#卵","text":"<p>平飼いで伸び伸び育った卵のカテゴリ<\/p>","button_label":""}},"ee59a3c4-37f8-4256-b77c-a1c9bdc25364":{"type":"text_block","settings":{"enable_image":true,"image":"shopify:\/\/shop_images\/medium_f8ce99ae-86d0-447a-8fa0-493920bc6b64.jpg","title":"#お菓子","text":"<p>お菓子カテゴリ<\/p>","button_label":""}}},"block_order":["feature-columns-2","ee59a3c4-37f8-4256-b77c-a1c9bdc25364"],"settings":{"title":"","align_text":"left"}},"collection":{"type":"collection","settings":{"title":"平飼い卵","collection":"egg-menu","grid":3,"rows":1,"show_vendor":false,"show_view_all":false}},"quotes":{"type":"quotes","blocks":{"quotes-0":{"type":"quote","settings":{"quote":"<p>市販の卵と比べると黄身と白味が分厚くて弾力たっぷり。栄養たっぷりな気がしましておいしかったです。<\/p>","author":"渡辺亨子"}},"quotes-1":{"type":"quote","settings":{"quote":"<p>うちのまちゃがこんなに成長するなんて…<br\/>早くおうちに帰っておいで<\/p>","author":"みほこ"}},"quotes-2":{"type":"quote","settings":{"quote":"<p>小さい卵でも白身の分厚さが圧倒的！目玉焼きにすると最高に美味しかったです。<\/p>","author":"のりかず"}}},"block_order":["quotes-0","quotes-1","quotes-2"],"settings":{"title":""}},"image-bar":{"type":"image-bar","blocks":{"image-bar-0":{"type":"image","settings":{"alignment":"center","cta_label":""}},"image-bar-1":{"type":"image","settings":{"alignment":"center","cta_label":""}},"image-bar-2":{"type":"image","settings":{"alignment":"center","cta_label":""}}},"block_order":["image-bar-0","image-bar-1","image-bar-2"],"settings":{"section_height":"medium"}},"footer":{"type":"footer","blocks":{"95682984-88e5-4b47-9683-66fbf679bc99":{"type":"text","settings":{"title":"送料に関して","text":"<p>全ての商品を送料無料でお届けいたします。<\/p>"}},"fe309a76-c946-4984-a979-72570ea4fda7":{"type":"text","settings":{"title":"うるまの平飼い卵-shop","text":"<p>「鶏にも環境にも人間にもやさしい卵を」<br\/>うるまの平飼い卵は平飼いのリーディング卵となるべく、最上級の平飼い卵を提供していきます。<\/p>"}},"46112f67-ebfe-47eb-a112-a166298cb5b7":{"type":"link_list","settings":{"title":"リンク","menu":"footer"}},"footer-1":{"type":"newsletter","settings":{"title":"うるまの平飼い卵-メルマガ"}}},"block_order":["95682984-88e5-4b47-9683-66fbf679bc99","fe309a76-c946-4984-a979-72570ea4fda7","46112f67-ebfe-47eb-a112-a166298cb5b7","footer-1"],"settings":{"show_payment_icons":true,"color_footer_bg":"#ffffff","color_footer_text":"#939393","show_locale_selector":true,"show_currency_selector":true}},"collection-template":{"type":"collection-template","settings":{"layout":"grid","grid":4,"rows":2,"show_collection_image":true,"show_vendor":false,"sort_enable":true,"tags_enable":true}},"1620617219c1a1442a":{"type":"slideshow","blocks":{"9d569933-842c-4c29-8184-df407c99c9de":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/709dc5c6e2d8e65e8ee6977e3ba09137.png","alignment":"center center","slide_title":"うるまの平飼い卵","subheading":"沖縄県内最高級の平飼い卵で贅沢を","button_label":""}},"1620617219c1a1442a-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/504af1d7-a508-4d78-9709-393037d6938a.jpg","alignment":"center center","slide_title":"うるまの平飼い卵","subheading":"鶏にも人間にも環境にも優しい卵です","button_label":"MORE","button_link":"shopify:\/\/collections\/egg-menu"}},"eb6fcf03-a1a5-4cbb-8b97-909f1dc0dcd2":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/6b9f72a43e56945dddf69c7e07e79462.png","alignment":"center center","slide_title":"卵かけご飯セット","subheading":"沖縄県で最高級の卵かけご飯のセットを","button_label":"MORE","button_link":"shopify:\/\/collections\/set-menu"}}},"block_order":["9d569933-842c-4c29-8184-df407c99c9de","1620617219c1a1442a-0","eb6fcf03-a1a5-4cbb-8b97-909f1dc0dcd2"],"settings":{"slideshow_height":"adapt","text_size":"medium","text_alignment":"left bottom","show_overlay":true,"autorotate":true,"autorotate_speed":9}},"1620618578c48543c2":{"type":"collection","settings":{"title":"セット商品","collection":"set-menu","grid":3,"rows":1,"show_vendor":false,"show_view_all":false}},"16206201654f85397b":{"type":"featured-product","disabled":true,"settings":{"featured_product":"egg-over-rice","show_quantity_selector":true,"show_vendor":false,"enable_payment_button":true,"show_share_buttons":false,"media_size":"medium","enable_image_zoom":false,"enable_video_looping":false}},"1621829322ebe2ec62":{"type":"collection","settings":{"title":"定期購入","collection":"定期購入","grid":3,"rows":1,"show_vendor":false,"show_view_all":false}},"product-template":{"type":"product-template","settings":{"show_quantity_selector":false,"show_vendor":false,"enable_payment_button":true,"show_share_buttons":true,"media_size":"medium","enable_image_zoom":true,"enable_video_looping":false}},"product-recommendations":{"type":"product-recommendations","settings":{"show_product_recommendations":true,"heading":"あなたへのおすすめ","show_vendor":false}},"1622997138f73fdfae":{"type":"collection-list","blocks":{"1622997138c7623bc5-0":{"type":"featured_collection","settings":{"collection":"養鶏体験"}}},"block_order":["1622997138c7623bc5-0"],"settings":{"title":"養鶏体験","grid":3}}},"content_for_index":["1620617219c1a1442a","16206201654f85397b","collection","1621829322ebe2ec62","1620618578c48543c2","1622997138f73fdfae"]},"presets":{"Default":{"sections":{"header":{"type":"header","settings":{}},"hero-1":{"type":"hero","settings":{"hero_size":"large","text_size":"large"}},"feature-row":{"type":"feature-row","settings":{}},"feature-columns":{"type":"feature-columns","blocks":{"feature-columns-0":{"type":"text_block","settings":{}},"feature-columns-1":{"type":"text_block","settings":{}},"feature-columns-2":{"type":"text_block","settings":{}}},"block_order":["feature-columns-0","feature-columns-1","feature-columns-2"],"settings":{"title":""}},"collection":{"type":"collection","settings":{"grid":4}},"hero-2":{"type":"hero","settings":{"text_size":"large"}},"quotes":{"type":"quotes","blocks":{"quotes-0":{"type":"quote","settings":{}},"quotes-1":{"type":"quote","settings":{}},"quotes-2":{"type":"quote","settings":{}}},"block_order":["quotes-0","quotes-1","quotes-2"],"settings":{"title":""}},"image-bar":{"type":"image-bar","blocks":{"image-bar-0":{"type":"image","settings":{}},"image-bar-1":{"type":"image","settings":{}},"image-bar-2":{"type":"image","settings":{}}},"block_order":["image-bar-0","image-bar-1","image-bar-2"],"settings":{}},"footer":{"type":"footer","blocks":{"footer-0":{"type":"link_list","settings":{}},"footer-1":{"type":"newsletter","settings":{}}},"block_order":["footer-0","footer-1"],"settings":{"show_payment_icons":true}}},"content_for_index":["hero-1","feature-row","feature-columns","collection","hero-2","quotes","image-bar"]},"Light":{"color_text":"#162950","color_body_text":"#6d6d6d","color_sale_text":"#DA2F0C","color_borders":"#e4e4e4","color_button":"#DA2F0C","color_button_text":"#ffffff","color_small_button_text_border":"#162950","color_text_field":"#ffffff","color_text_field_text":"#162950","color_text_field_border":"#909090","color_image_overlay_text":"#ffffff","color_image_overlay":"#3d3d3d","image_overlay_opacity":40,"color_body_bg":"#f8f8f8","type_header_font":"muli_n6","type_header_base_size":26,"type_base_font":"muli_n4","type_base_size":18,"share_facebook":true,"share_twitter":true,"share_pinterest":true,"social_twitter_link":"","social_facebook_link":"","social_pinterest_link":"","social_instagram_link":"","social_tumblr_link":"","social_snapchat_link":"","social_youtube_link":"","social_vimeo_link":"","favicon":"","checkout_header_image":"","checkout_logo_image":"","checkout_logo_position":"left","checkout_logo_size":"small","checkout_body_background_image":"","checkout_body_background_color":"#ffffff","checkout_input_background_color_mode":"white","checkout_sidebar_background_image":"","checkout_sidebar_background_color":"#e8f3f6","checkout_heading_font":"Roboto","checkout_body_font":"Source Sans Pro","checkout_accent_color":"#1990c6","checkout_button_color":"#23314e","checkout_error_color":"#ff6d6d","sections":{"header":{"type":"header","settings":{"align_logo":"left","logo":"","logo_max_width":135,"main_linklist":"main-menu","message":true,"color_bg":"#162950","color_text":"#ffffff"}},"hero":{"type":"hero","settings":{"alignment":"center","hero_size":"x-large","text_size":"large"}},"slideshow":{"type":"slideshow","blocks":{"slideshow-0":{"type":"image","settings":{"image":"","alignment":"center center"}},"1492095993817":{"type":"image","settings":{"image":"","alignment":"center"}}},"block_order":["slideshow-0","1492095993817"],"settings":{"slideshow_height":"medium","text_size":"medium","autorotate":false,"autorotate_speed":5}},"featured-collections":{"type":"collection","settings":{"grid":3,"rows":1,"show_vendor":true,"show_view_all":true}},"product-template":{"type":"product-template","settings":{"show_quantity_selector":false,"show_vendor":false,"show_share_buttons":true,"media_size":"medium","enable_image_zoom":true,"enable_video_looping":false}},"collection-template":{"type":"collection-template","settings":{"layout":"grid","grid":2,"rows":2,"show_collection_image":true,"show_vendor":false,"sort_enable":true,"tags_enable":true}},"1492033809691":{"type":"map","settings":{}},"1492033877875":{"type":"quotes","blocks":{"1492033877875-0":{"type":"quote","settings":{}}},"block_order":["1492033877875-0"],"settings":{}},"1492033924902":{"type":"custom-content","blocks":{"1492033924902-0":{"type":"text","settings":{"width":"100%","alignment":"center","align_text":"center"}}},"block_order":["1492033924902-0"],"settings":{"title":""}},"1492096252560":{"type":"collection-list","blocks":{"1492096252560-0":{"type":"featured_collection","settings":{}},"1492096252560-1":{"type":"featured_collection","settings":{}},"1492096252560-2":{"type":"featured_collection","settings":{}}},"block_order":["1492096252560-0","1492096252560-1","1492096252560-2"],"settings":{"grid":3}},"blog-template":{"type":"blog-template","settings":{"layout":"grid","blog_show_author":true,"blog_show_date":false}},"article-template":{"type":"article-template","settings":{"blog_show_author":true,"blog_show_date":true,"show_share_buttons":true}},"cart-template":{"type":"cart-template","settings":{"cart_notes_enable":false}},"footer":{"type":"footer","blocks":{"link_list":{"type":"link_list","settings":{}},"text":{"type":"text","settings":{}},"newsletter":{"type":"newsletter","settings":{}}},"block_order":["link_list","text","newsletter"],"settings":{"color_footer_bg":"#f8f8f8","color_footer_text":"#6d6d6d"}}},"content_for_index":["hero","featured-collections","slideshow","1492033924902","1492096252560","1492033877875","1492033809691"]}}}
+{
+  "current": {
+    "type_header_font": "serif",
+    "type_base_font": "serif",
+    "favicon": "shopify:\/\/shop_images\/favicon2.png",
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "align_logo": "left",
+          "logo_max_width": 70,
+          "main_linklist": "",
+          "message": false,
+          "home_page_only": true,
+          "message_text": "Announce something here",
+          "color_bg": "#3a3a3a",
+          "color_text": "#ffffff"
+        }
+      },
+      "feature-row": {
+        "type": "feature-row",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/AdobeStock_166420207.jpg",
+          "layout": "left",
+          "title": "鶏に優しい平飼い卵",
+          "text": "<p>鶏が自由に過ごせる環境下で育てており、<br\/>健康的で美味しい卵を生産しています。<\/p>",
+          "button_label": ""
+        }
+      },
+      "feature-columns": {
+        "type": "feature-columns",
+        "blocks": {
+          "feature-columns-2": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/504af1d7-a508-4d78-9709-393037d6938a.jpg",
+              "title": "#卵",
+              "text": "<p>平飼いで伸び伸び育った卵のカテゴリ<\/p>",
+              "button_label": ""
+            }
+          },
+          "ee59a3c4-37f8-4256-b77c-a1c9bdc25364": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/medium_f8ce99ae-86d0-447a-8fa0-493920bc6b64.jpg",
+              "title": "#お菓子",
+              "text": "<p>お菓子カテゴリ<\/p>",
+              "button_label": ""
+            }
+          }
+        },
+        "block_order": [
+          "feature-columns-2",
+          "ee59a3c4-37f8-4256-b77c-a1c9bdc25364"
+        ],
+        "settings": {
+          "title": "",
+          "align_text": "left"
+        }
+      },
+      "collection": {
+        "type": "collection",
+        "settings": {
+          "title": "平飼い卵",
+          "collection": "egg-menu",
+          "grid": 3,
+          "rows": 1,
+          "show_vendor": false,
+          "show_view_all": false
+        }
+      },
+      "quotes": {
+        "type": "quotes",
+        "blocks": {
+          "quotes-0": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>市販の卵と比べると黄身と白味が分厚くて弾力たっぷり。栄養たっぷりな気がしましておいしかったです。<\/p>",
+              "author": "渡辺亨子"
+            }
+          },
+          "quotes-1": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>うちのまちゃがこんなに成長するなんて…<br\/>早くおうちに帰っておいで<\/p>",
+              "author": "みほこ"
+            }
+          },
+          "quotes-2": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>小さい卵でも白身の分厚さが圧倒的！目玉焼きにすると最高に美味しかったです。<\/p>",
+              "author": "のりかず"
+            }
+          }
+        },
+        "block_order": [
+          "quotes-0",
+          "quotes-1",
+          "quotes-2"
+        ],
+        "settings": {
+          "title": ""
+        }
+      },
+      "image-bar": {
+        "type": "image-bar",
+        "blocks": {
+          "image-bar-0": {
+            "type": "image",
+            "settings": {
+              "alignment": "center",
+              "cta_label": ""
+            }
+          },
+          "image-bar-1": {
+            "type": "image",
+            "settings": {
+              "alignment": "center",
+              "cta_label": ""
+            }
+          },
+          "image-bar-2": {
+            "type": "image",
+            "settings": {
+              "alignment": "center",
+              "cta_label": ""
+            }
+          }
+        },
+        "block_order": [
+          "image-bar-0",
+          "image-bar-1",
+          "image-bar-2"
+        ],
+        "settings": {
+          "section_height": "medium"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "95682984-88e5-4b47-9683-66fbf679bc99": {
+            "type": "text",
+            "settings": {
+              "title": "送料に関して",
+              "text": "<p>全ての商品を送料無料でお届けいたします。<\/p>"
+            }
+          },
+          "fe309a76-c946-4984-a979-72570ea4fda7": {
+            "type": "text",
+            "settings": {
+              "title": "うるまの平飼い卵-shop",
+              "text": "<p>「鶏にも環境にも人間にもやさしい卵を」<br\/>うるまの平飼い卵は平飼いのリーディング卵となるべく、最上級の平飼い卵を提供していきます。<\/p>"
+            }
+          },
+          "46112f67-ebfe-47eb-a112-a166298cb5b7": {
+            "type": "link_list",
+            "settings": {
+              "title": "リンク",
+              "menu": "footer"
+            }
+          },
+          "footer-1": {
+            "type": "newsletter",
+            "settings": {
+              "title": "うるまの平飼い卵-メルマガ"
+            }
+          }
+        },
+        "block_order": [
+          "95682984-88e5-4b47-9683-66fbf679bc99",
+          "fe309a76-c946-4984-a979-72570ea4fda7",
+          "46112f67-ebfe-47eb-a112-a166298cb5b7",
+          "footer-1"
+        ],
+        "settings": {
+          "show_payment_icons": true,
+          "color_footer_bg": "#ffffff",
+          "color_footer_text": "#939393",
+          "show_locale_selector": true,
+          "show_currency_selector": true
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "layout": "grid",
+          "grid": 4,
+          "rows": 2,
+          "show_collection_image": true,
+          "show_vendor": false,
+          "sort_enable": true,
+          "tags_enable": true
+        }
+      },
+      "1620617219c1a1442a": {
+        "type": "slideshow",
+        "blocks": {
+          "9d569933-842c-4c29-8184-df407c99c9de": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/709dc5c6e2d8e65e8ee6977e3ba09137.png",
+              "alignment": "center center",
+              "slide_title": "うるまの平飼い卵",
+              "subheading": "沖縄県内最高級の平飼い卵で贅沢を",
+              "button_label": ""
+            }
+          },
+          "1620617219c1a1442a-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/504af1d7-a508-4d78-9709-393037d6938a.jpg",
+              "alignment": "center center",
+              "slide_title": "うるまの平飼い卵",
+              "subheading": "鶏にも人間にも環境にも優しい卵です",
+              "button_label": "MORE",
+              "button_link": "shopify:\/\/collections\/egg-menu"
+            }
+          },
+          "eb6fcf03-a1a5-4cbb-8b97-909f1dc0dcd2": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/6b9f72a43e56945dddf69c7e07e79462.png",
+              "alignment": "center center",
+              "slide_title": "卵かけご飯セット",
+              "subheading": "沖縄県で最高級の卵かけご飯のセットを",
+              "button_label": "MORE",
+              "button_link": "shopify:\/\/collections\/set-menu"
+            }
+          }
+        },
+        "block_order": [
+          "9d569933-842c-4c29-8184-df407c99c9de",
+          "1620617219c1a1442a-0",
+          "eb6fcf03-a1a5-4cbb-8b97-909f1dc0dcd2"
+        ],
+        "settings": {
+          "slideshow_height": "adapt",
+          "text_size": "medium",
+          "text_alignment": "left bottom",
+          "show_overlay": true,
+          "autorotate": true,
+          "autorotate_speed": 9
+        }
+      },
+      "1620618578c48543c2": {
+        "type": "collection",
+        "settings": {
+          "title": "セット商品",
+          "collection": "set-menu",
+          "grid": 3,
+          "rows": 1,
+          "show_vendor": false,
+          "show_view_all": false
+        }
+      },
+      "16206201654f85397b": {
+        "type": "featured-product",
+        "disabled": true,
+        "settings": {
+          "featured_product": "egg-over-rice",
+          "show_quantity_selector": true,
+          "show_vendor": false,
+          "enable_payment_button": true,
+          "show_share_buttons": false,
+          "media_size": "medium",
+          "enable_image_zoom": false,
+          "enable_video_looping": false
+        }
+      },
+      "1621829322ebe2ec62": {
+        "type": "collection",
+        "settings": {
+          "title": "定期購入",
+          "collection": "定期購入",
+          "grid": 3,
+          "rows": 1,
+          "show_vendor": false,
+          "show_view_all": false
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "show_quantity_selector": false,
+          "show_vendor": false,
+          "enable_payment_button": true,
+          "show_share_buttons": true,
+          "media_size": "medium",
+          "enable_image_zoom": true,
+          "enable_video_looping": false
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": true,
+          "heading": "あなたへのおすすめ",
+          "show_vendor": false
+        }
+      },
+      "1622997138f73fdfae": {
+        "type": "collection-list",
+        "blocks": {
+          "1622997138c7623bc5-0": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "養鶏体験"
+            }
+          }
+        },
+        "block_order": [
+          "1622997138c7623bc5-0"
+        ],
+        "settings": {
+          "title": "養鶏体験",
+          "grid": 3
+        }
+      }
+    },
+    "content_for_index": [
+      "1620617219c1a1442a",
+      "16206201654f85397b",
+      "collection",
+      "1621829322ebe2ec62",
+      "1620618578c48543c2",
+      "1622997138f73fdfae"
+    ]
+  },
+  "presets": {
+    "Default": {
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {}
+        },
+        "hero-1": {
+          "type": "hero",
+          "settings": {
+            "hero_size": "large",
+            "text_size": "large"
+          }
+        },
+        "feature-row": {
+          "type": "feature-row",
+          "settings": {}
+        },
+        "feature-columns": {
+          "type": "feature-columns",
+          "blocks": {
+            "feature-columns-0": {
+              "type": "text_block",
+              "settings": {}
+            },
+            "feature-columns-1": {
+              "type": "text_block",
+              "settings": {}
+            },
+            "feature-columns-2": {
+              "type": "text_block",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "feature-columns-0",
+            "feature-columns-1",
+            "feature-columns-2"
+          ],
+          "settings": {
+            "title": ""
+          }
+        },
+        "collection": {
+          "type": "collection",
+          "settings": {
+            "grid": 4
+          }
+        },
+        "hero-2": {
+          "type": "hero",
+          "settings": {
+            "text_size": "large"
+          }
+        },
+        "quotes": {
+          "type": "quotes",
+          "blocks": {
+            "quotes-0": {
+              "type": "quote",
+              "settings": {}
+            },
+            "quotes-1": {
+              "type": "quote",
+              "settings": {}
+            },
+            "quotes-2": {
+              "type": "quote",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "quotes-0",
+            "quotes-1",
+            "quotes-2"
+          ],
+          "settings": {
+            "title": ""
+          }
+        },
+        "image-bar": {
+          "type": "image-bar",
+          "blocks": {
+            "image-bar-0": {
+              "type": "image",
+              "settings": {}
+            },
+            "image-bar-1": {
+              "type": "image",
+              "settings": {}
+            },
+            "image-bar-2": {
+              "type": "image",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "image-bar-0",
+            "image-bar-1",
+            "image-bar-2"
+          ],
+          "settings": {}
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "link_list",
+              "settings": {}
+            },
+            "footer-1": {
+              "type": "newsletter",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1"
+          ],
+          "settings": {
+            "show_payment_icons": true
+          }
+        }
+      },
+      "content_for_index": [
+        "hero-1",
+        "feature-row",
+        "feature-columns",
+        "collection",
+        "hero-2",
+        "quotes",
+        "image-bar"
+      ]
+    },
+    "Light": {
+      "color_text": "#162950",
+      "color_body_text": "#6d6d6d",
+      "color_sale_text": "#DA2F0C",
+      "color_borders": "#e4e4e4",
+      "color_button": "#DA2F0C",
+      "color_button_text": "#ffffff",
+      "color_small_button_text_border": "#162950",
+      "color_text_field": "#ffffff",
+      "color_text_field_text": "#162950",
+      "color_text_field_border": "#909090",
+      "color_image_overlay_text": "#ffffff",
+      "color_image_overlay": "#3d3d3d",
+      "image_overlay_opacity": 40,
+      "color_body_bg": "#f8f8f8",
+      "type_header_font": "muli_n6",
+      "type_header_base_size": 26,
+      "type_base_font": "muli_n4",
+      "type_base_size": 18,
+      "share_facebook": true,
+      "share_twitter": true,
+      "share_pinterest": true,
+      "social_twitter_link": "",
+      "social_facebook_link": "",
+      "social_pinterest_link": "",
+      "social_instagram_link": "",
+      "social_tumblr_link": "",
+      "social_snapchat_link": "",
+      "social_youtube_link": "",
+      "social_vimeo_link": "",
+      "favicon": "",
+      "checkout_header_image": "",
+      "checkout_logo_image": "",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "small",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#ffffff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#e8f3f6",
+      "checkout_heading_font": "Roboto",
+      "checkout_body_font": "Source Sans Pro",
+      "checkout_accent_color": "#1990c6",
+      "checkout_button_color": "#23314e",
+      "checkout_error_color": "#ff6d6d",
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "align_logo": "left",
+            "logo": "",
+            "logo_max_width": 135,
+            "main_linklist": "main-menu",
+            "message": true,
+            "color_bg": "#162950",
+            "color_text": "#ffffff"
+          }
+        },
+        "hero": {
+          "type": "hero",
+          "settings": {
+            "alignment": "center",
+            "hero_size": "x-large",
+            "text_size": "large"
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "slideshow-0": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "alignment": "center center"
+              }
+            },
+            "1492095993817": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "alignment": "center"
+              }
+            }
+          },
+          "block_order": [
+            "slideshow-0",
+            "1492095993817"
+          ],
+          "settings": {
+            "slideshow_height": "medium",
+            "text_size": "medium",
+            "autorotate": false,
+            "autorotate_speed": 5
+          }
+        },
+        "featured-collections": {
+          "type": "collection",
+          "settings": {
+            "grid": 3,
+            "rows": 1,
+            "show_vendor": true,
+            "show_view_all": true
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+            "show_quantity_selector": false,
+            "show_vendor": false,
+            "show_share_buttons": true,
+            "media_size": "medium",
+            "enable_image_zoom": true,
+            "enable_video_looping": false
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "layout": "grid",
+            "grid": 2,
+            "rows": 2,
+            "show_collection_image": true,
+            "show_vendor": false,
+            "sort_enable": true,
+            "tags_enable": true
+          }
+        },
+        "1492033809691": {
+          "type": "map",
+          "settings": {}
+        },
+        "1492033877875": {
+          "type": "quotes",
+          "blocks": {
+            "1492033877875-0": {
+              "type": "quote",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "1492033877875-0"
+          ],
+          "settings": {}
+        },
+        "1492033924902": {
+          "type": "custom-content",
+          "blocks": {
+            "1492033924902-0": {
+              "type": "text",
+              "settings": {
+                "width": "100%",
+                "alignment": "center",
+                "align_text": "center"
+              }
+            }
+          },
+          "block_order": [
+            "1492033924902-0"
+          ],
+          "settings": {
+            "title": ""
+          }
+        },
+        "1492096252560": {
+          "type": "collection-list",
+          "blocks": {
+            "1492096252560-0": {
+              "type": "featured_collection",
+              "settings": {}
+            },
+            "1492096252560-1": {
+              "type": "featured_collection",
+              "settings": {}
+            },
+            "1492096252560-2": {
+              "type": "featured_collection",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "1492096252560-0",
+            "1492096252560-1",
+            "1492096252560-2"
+          ],
+          "settings": {
+            "grid": 3
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "layout": "grid",
+            "blog_show_author": true,
+            "blog_show_date": false
+          }
+        },
+        "article-template": {
+          "type": "article-template",
+          "settings": {
+            "blog_show_author": true,
+            "blog_show_date": true,
+            "show_share_buttons": true
+          }
+        },
+        "cart-template": {
+          "type": "cart-template",
+          "settings": {
+            "cart_notes_enable": false
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "link_list": {
+              "type": "link_list",
+              "settings": {}
+            },
+            "text": {
+              "type": "text",
+              "settings": {}
+            },
+            "newsletter": {
+              "type": "newsletter",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "link_list",
+            "text",
+            "newsletter"
+          ],
+          "settings": {
+            "color_footer_bg": "#f8f8f8",
+            "color_footer_text": "#6d6d6d"
+          }
+        }
+      },
+      "content_for_index": [
+        "hero",
+        "featured-collections",
+        "slideshow",
+        "1492033924902",
+        "1492096252560",
+        "1492033877875",
+        "1492033809691"
+      ]
+    }
+  }
+}
