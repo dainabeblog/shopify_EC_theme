@@ -1,0 +1,25 @@
+<div>
+  <p>
+    <label for="datepicker">配送日を指定してください。</label>
+    <input id="datepicker" type="text" name="attributes[date]" value="{{ cart.attributes.date }}" />
+ </div>
+ 
+ <script>
+  $("#datepicker").datepicker( { 
+    minDate: '+3D', 
+    maxDate: '+2M',
+  } );
+ </script>
+ <style>
+   @media only screen and (max-width: 750px){
+    #datepicker {
+      padding: 8px 3px;
+      width: 100px;
+    }
+   }
+ </style>
+ 
+ {% comment %}
+  To remove days of the week that aren't Saturday and Sunday, use this:
+  http://stackoverflow.com/questions/2968414/disable-specific-days-of-the-week-on-jquery-ui-datepicker
+ {% endcomment %}

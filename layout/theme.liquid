@@ -1,12 +1,29 @@
 <!doctype html>
 <html class="no-js" lang="{{ request.locale.iso_code }}">
 <head>
+    <!-- 配送日指定用jQuery -->
+  {{ 'https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css' | stylesheet_tag }}
+  {{ 'https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js' | script_tag }}
+  {{ 'https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js' | script_tag }}
+  {{ 'https://rawgit.com/jquery/jquery-ui/master/ui/i18n/datepicker-ja.js' | script_tag }}
+  
   <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-TNWTFNK');</script>
+})(window,document,'script','dataLayer','GTM-TNWTFNK');
+  
+     if ( location.href.indexOf('cart') != -1) {
+    //cartページの処理を記入するよ〜  from daichi to masaki
+       
+    } else {
+    //cartページ以外の処理を記入するよ〜  from daichi to masaki
+
+    }
+ </script>
+
 <!-- End Google Tag Manager -->
   
   <meta charset="utf-8">
